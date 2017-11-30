@@ -1,3 +1,3 @@
-# Issues for the FREYA **PID Core Services** Work Package
+# FREYA **PID Core Services** Work Package
 
 Overview at https://waffle.io/datacite/freya.
