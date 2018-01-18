@@ -1,4 +1,5 @@
 name,re3data,url,status
+Dash,r3d100012537,https://dash.ucop.edu,implemented
 Figshare,r3d100010066,https://figshare.com,implemented
 Harvard Dataverse,r3d100010051,https://dataverse.harvard.edu,in progress
 ICPSR,r3d100010255,https://www.icpsr.umich.edu/,implemented
