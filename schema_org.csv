@@ -1,9 +1,17 @@
 name,re3data,url,status
+Climate Data Guide,,https://climatedataguide.ucar.edu,implemented
+da|ra,,https://www.da-ra.de,implemented
 Dash,r3d100012537,https://dash.ucop.edu,implemented
+DataCite,,https://search.datacite.org,implemented
+Dryad,r3d100000044,https://datadryad.org/,implemented
 Figshare,r3d100010066,https://figshare.com,implemented
-Harvard Dataverse,r3d100010051,https://dataverse.harvard.edu,in progress
+Harvard Dataverse,r3d100010051,https://dataverse.harvard.edu,implemented
+HEPData.net,r3d100010081,https://hepdata.net,implemented
 ICPSR,r3d100010255,https://www.icpsr.umich.edu/,implemented
+Kaggle,,https://www.kaggle.com,implemented
+Mendeley,r3d100011868,https://data.mendeley.com,implemented
 Pangaea,r3d100010134,https://www.pangaea.de,implemented
 PGP,r3d100011876,https://edal.ipk-gatersleben.de/repos/pgp,implemented
 PUB,r3d100010750,https://pub.uni-bielefeld.de,implemented
+SEANOE,r3d100011867,https://www.seanoe.org,implemented
 Zenodo,r3d100010468,https://www.zenodo.org,implemented
