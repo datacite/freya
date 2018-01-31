@@ -14,9 +14,11 @@ Image Attribution Framework,,http://iaf.virtualbrain.org/,implemented
 ICPSR,r3d100010255,https://www.icpsr.umich.edu/,implemented
 Kaggle,,https://www.kaggle.com,implemented
 Mendeley,r3d100011868,https://data.mendeley.com,implemented
+OmicsDI,,https://www.omicsdi.org/,implemented
 Pangaea,r3d100010134,https://www.pangaea.de,implemented
 PGP,r3d100011876,https://edal.ipk-gatersleben.de/repos/pgp,implemented
 PUB,r3d100010750,https://pub.uni-bielefeld.de,implemented
+Reactome,r3d100010861,http://reactome.org/,implemented
 SEANOE,r3d100011867,https://www.seanoe.org,implemented
 Texas Data Repository,r3d100012385,https://dataverse.tdl.org,implemented
 World Data Center for Climate,r3d100010299,https://cera-www.dkrz.de/WDCC/ui/cerasearch/,implemented
