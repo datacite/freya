@@ -1,0 +1,10 @@
+type,id,link(current),registrar
+doi,10.25504/fairsharing.me4qwe ,https://fairsharing.org/FAIRsharing.me4qwe,DataCite
+doi,10.5438/msk0-7250 ,https://blog.datacite.org/datacite-hiring-another-application-developer/,DataCite
+doi,10.14469/hpc/3358 ,https://data.hpc.imperial.ac.uk/resolve/?doi=3358,DataCite
+doi,10.5517/cc105x9d ,https://www.ccdc.cam.ac.uk/structures/search?id=doi:10.5517/cc105x9d&sid=DataCite,DataCite
+doi,10.14288/1.0357399,https://open.library.ubc.ca/collections/bcbooks/items/1.0357399,DataCite
+doi,10.15468/egnix1,https://www.gbif.org/dataset/843cc7a8-f762-11e1-a439-00145eb45e9a,DataCite
+doi,10.5255/ukda-sn-64002-1,https://discover.ukdataservice.ac.uk/doi/?sn=64002#,DataCite
+doi,10.17613/m6wg9f ,https://hcommons.org/deposits/item/hc:11263/,DataCite
+doi,10.1007/978-3-540-69203-4_2 ,https://link.springer.com/chapter/10.1007%2F978-3-540-69203-4_2,CrossRef
