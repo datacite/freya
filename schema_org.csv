@@ -1,4 +1,4 @@
-﻿name,re3data,url,example,status,format,id,identifier,name,author,publisher,includedInDataCatalog,datePublished,version,type,description,keywords,license,citation,comments
+repository,re3data,url,example,status,format,id,identifier,name,author,publisher,includedInDataCatalog,datePublished,version,type,description,keywords,license,citation,comments
 4TU Centre forResearch Data,r3d100010216,https://data.4tu.nl,https://data.4tu.nl/repository/uuid:d5b91e46-07e7-4077-bd63-3fa2b82c847f,implemented,json-ld,x,,x,x,x,,x,,x,x,x,,x,
 Climate Data Guide,,https://climatedataguide.ucar.edu,,in progress,,,,,,,,,,,,,,,
 da|ra,,https://www.da-ra.de,,in progress,,,,,,,,,,,,,,,
