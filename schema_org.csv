@@ -2,7 +2,7 @@
 4TU Centre forResearch Data;r3d100010216;https://data.4tu.nl;https://data.4tu.nl/repository/uuid:d5b91e46-07e7-4077-bd63-3fa2b82c847f;implemented;json-ld;x;;x;x;x;;x;;x;x;x;;x;
 Climate Data Guide;;https://climatedataguide.ucar.edu;;in progress;;;;;;;;;;;;;;;
 da|ra;;https://www.da-ra.de;;in progress;;;;;;;;;;;;;;;
-Dash;r3d100012537;https://dash.ucop.edu;https://dash.ucop.edu/stash/dataset/doi:10.5060/D8H59D;implemented;json-ld;;;x;x;;x;;x;x;x;x;x;?;No id or identifier, uses temporalCoverage instead of datePublished, citation not used as reference to another creative work
+Dash;r3d100012537;https://dash.ucop.edu;https://dash.ucop.edu/stash/dataset/doi:10.5060/D8H59D;implemented;json-ld;;;x;x;;x;;x;x;x;x;x;?;"No id or identifier, uses temporalCoverage instead of datePublished, citation not used as reference to another creative work"
 DataCite;;https://search.datacite.org;https://search.datacite.org/works/10.7280/d1059f;implemented;json-ld;x;;x;x;x;;x;;x;x;x;x;?;Index of data resources hosted elsewhere. Missing version. Uses @reverse for citation to indicate isReferencedBy
 DataMed;;https://datamed.org;https://datamed.org/display-item.php?repository=0006&id=59139ef65152c62a9fc18ff7&query=;implemented;json-ld;;x;x;;;;;;;x;x;;;Index of data resources hosted elsewhere. Uses local accession number as identifier
 Dryad;r3d100000044;https://datadryad.org/;https://datadryad.org/resource/doi:10.5061/dryad.cv74242.2;implemented;json-ld;x;x;x;x;x;;x;x;x;x;x;;x;
