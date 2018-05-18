@@ -14,6 +14,7 @@ HEPData.net,r3d100010081,https://hepdata.net,,in progress,,,,,,,,,,,,,,,
 ICPSR,r3d100010255,https://www.icpsr.umich.edu/,https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3937,implemented,json-ld,,x,x,x,,,,x,x,x,x,x,?,No datePublished | citation not used as reference to another creative work
 Image Attribution Framework,,http://iaf.virtualbrain.org/,,in progress,,,,,,,,,,,,,,,
 Kaggle,,https://www.kaggle.com,https://www.kaggle.com/starbucks/store-locations,implemented,json-ld,,x,x,x,,x,,x,x,x,x,x,,No datePublished | Uses local accession number as identifier
+LIGO Open Science Center,,https://losc.ligo.org/about/,https://losc.ligo.org/O1/,implemented,json-ld,x,,x,x,x,,x,,,,,,,
 Mendeley,r3d100011868,https://data.mendeley.com,https://data.mendeley.com/datasets/w4ygt38p86/1,implemented,json-ld,,,x,x,x,x,x,x,x,x,x,x,x,No id or identifier
 OmicsDI,,https://www.omicsdi.org/,,in progress,,,,,,,,,,,,,,,
 Opendata,,http://opendata.cern.ch/,http://opendata.cern.ch/record/20,implemented,json-ld,x,x,x,x,x,,x,,x,x,,,,
