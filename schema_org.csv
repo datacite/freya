@@ -1,33 +1,33 @@
-repository,re3data,url,example,status,format,id,identifier,name,author,publisher,includedInDataCatalog,datePublished,version,type,description,keywords,license,citation,comments
-4TU Centre forResearch Data,r3d100010216,https://data.4tu.nl,https://data.4tu.nl/repository/uuid:d5b91e46-07e7-4077-bd63-3fa2b82c847f,implemented,json-ld,x,,x,x,x,,x,,x,x,x,,x,
-Climate Data Guide,,https://climatedataguide.ucar.edu,,in progress,,,,,,,,,,,,,,,
-da|ra,,https://www.da-ra.de,,in progress,,,,,,,,,,,,,,,
-Dash,r3d100012537,https://dash.ucop.edu,https://dash.ucop.edu/stash/dataset/doi:10.5060/D8H59D,implemented,json-ld,,,x,x,,x,,x,x,x,x,x,?,No id or identifier | uses temporalCoverage instead of datePublished | citation not used as reference to another creative work
-DataCite,,https://search.datacite.org,https://search.datacite.org/works/10.7280/d1059f,implemented,json-ld,x,,x,x,x,,x,,x,x,x,x,?,Index of data resources hosted elsewhere. Missing version. Uses @reverse for citation to indicate isReferencedBy
-DataMed,,https://datamed.org,https://datamed.org/display-item.php?repository=0006&id=59139ef65152c62a9fc18ff7&query=,implemented,json-ld,,x,x,,,,,,,x,x,,,Index of data resources hosted elsewhere. Uses local accession number as identifier
-Dryad,r3d100000044,https://datadryad.org/,https://datadryad.org/resource/doi:10.5061/dryad.cv74242.2,implemented,json-ld,x,x,x,x,x,,x,x,x,x,x,,x,
-Dutch Dataverse Network,r3d100011201,https://dataverse.nl,,in progress,,,,,,,,,,,,,,,
-European Genome Phenome Archive,,https://ega-archive.org/,https://ega-archive.org/datasets/EGAD00000000003,implemented,json-ld,,x,x,,,,,,x,x,x,,,Uses local accession number as identifier | no author | no datePublished
-Figshare,r3d100010066,https://figshare.com,https://figshare.com/articles/Analysis_of_spherical_indentation_of_porous_ceramic_films/4007940,implemented,json-ld,,,x,x,,,,x,x,x,x,,,No id or identifier | no publisher or includedInDataCatalog | no datePublished
-Harvard Dataverse,r3d100010051,https://dataverse.harvard.edu,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GAOC03,implemented,json-ld,,x,x,x,,x,x,x,x,x,x,x,,uses Dataverse platform
-HEPData.net,r3d100010081,https://hepdata.net,,in progress,,,,,,,,,,,,,,,
-ICPSR,r3d100010255,https://www.icpsr.umich.edu/,https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3937,implemented,json-ld,,x,x,x,,,,x,x,x,x,x,?,No datePublished | citation not used as reference to another creative work
-Image Attribution Framework,,http://iaf.virtualbrain.org/,,in progress,,,,,,,,,,,,,,,
-Kaggle,,https://www.kaggle.com,https://www.kaggle.com/starbucks/store-locations,implemented,json-ld,,x,x,x,,x,,x,x,x,x,x,,No datePublished | Uses local accession number as identifier
-LIGO Open Science Center,,https://losc.ligo.org/about/,https://losc.ligo.org/O1/,implemented,json-ld,x,,x,x,x,,x,,,,,,,
-Mendeley,r3d100011868,https://data.mendeley.com,https://data.mendeley.com/datasets/w4ygt38p86/1,implemented,json-ld,,,x,x,x,x,x,x,x,x,x,x,x,No id or identifier
-OmicsDI,,https://www.omicsdi.org/,,in progress,,,,,,,,,,,,,,,
-Opendata,,http://opendata.cern.ch/,http://opendata.cern.ch/record/20,implemented,json-ld,x,x,x,x,x,,x,,x,x,,,,
-OpenNeuro,r3d100010924,https://www.openneuro.org,https://openneuro.org/datasets/ds000258/versions/00002,implemented,json-ld,,,x,x,x,,x,x,x,x,,x,,
-ORNL DAAC,r3d100000037,https://daac.ornl.gov,https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1418,implemented,json-ld,x,,x,x,x,x,x,,x,x,x,,?,Citation not used as reference to another creative work
-Pangaea,r3d100010134,https://www.pangaea.de,https://doi.pangaea.de/10.1594/PANGAEA.836178,implemented,json-ld,,x,x,x,x,x,x,,x,x,x,x,x,
-PDBe,r3d100011104,https://www.ebi.ac.uk/pdbe/,http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-1277,implemented,rdfa,,,,,,,,,,,,,,
-PGP,r3d100011876,https://edal.ipk-gatersleben.de/repos/pgp,https://doi.ipk-gatersleben.de/DOI/ce9f7e62-56e5-4554-bb11-d7ab29e6fa1d/dd34a994-daf0-4b7f-9809-d875c1e771d2/2,implemented,json-ld,x,,x,x,x,,,,x,x,x,,,No datePublished.
-PUB,r3d100010750,https://pub.uni-bielefeld.de,,in progress,,,,,,,,,,,,,,,
-Reactome,r3d100010861,http://reactome.org/,https://reactome.org/content/detail/5617472,implemented,json-ld,,,x,x,,x,,x,x,x,x,x,x,No id or identifier. No datePublished.
-SEANOE,r3d100011867,https://www.seanoe.org,,in progress,,,,,,,,,,,,,,,
-TCCON,r3d100012403,https://tccondata.org,https://data.caltech.edu/records/210,in progress,,,,,,,,,,,,,,,
-Texas Data Repository,r3d100012385,https://dataverse.tdl.org,https://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/7BTM0D,implemented,json-ld,,x,x,x,,x,x,x,x,x,x,x,,uses Dataverse platform
-UniProt,r3d100010357,https://http://www.uniprot.org/,https://www.uniprot.org/uniprot/A0A1C9VNP8,implemented,rdfa,,,,,,,,,,,,,,
-World Data Center for Climate,r3d100010299,https://cera-www.dkrz.de/WDCC/ui/cerasearch/,https://cera-www.dkrz.de/WDCC/ui/cerasearch/entry?acronym=WR2010_EH5_1_A1B,implemented,json-ld,x,,x,x,x,x,x,,x,x,x,,,
-Zenodo,r3d100010468,https://www.zenodo.org,https://www.zenodo.org/record/1196821,implemented,json-ld,x,x,x,x,,,x,x,x,x,x,x,,Missing publisher
+repository,index,re3data,url,example,status,format,id,identifier,name,author,publisher,includedInDataCatalog,datePublished,version,type,description,keywords,license,citation,allRequiredFields,missingIdentifier,missingDataCatalog,missingPublicationDate,comments
+4TU Centre forResearch Data,,r3d100010216,https://data.4tu.nl,https://data.4tu.nl/repository/uuid:d5b91e46-07e7-4077-bd63-3fa2b82c847f,implemented,json-ld,x,,x,x,x,,x,,x,x,x,,x,x,,,,
+Climate Data Guide,,,https://climatedataguide.ucar.edu,,in progress,,,,,,,,,,,,,,,,,,,
+da|ra,x,,https://www.da-ra.de,,in progress,,,,,,,,,,,,,,,,,,,
+Dash,,r3d100012537,https://dash.ucop.edu,https://dash.ucop.edu/stash/dataset/doi:10.5060/D8H59D,implemented,json-ld,,,x,x,,x,,x,x,x,x,x,?,,x,,,uses temporalCoverage instead of datePublished | citation not used as reference to another creative work
+DataCite,x,,https://search.datacite.org,https://search.datacite.org/works/10.7280/d1059f,implemented,json-ld,x,,x,x,x,,x,,x,x,x,x,?,x,,,,Index of data resources hosted elsewhere. Missing version. Uses @reverse for citation to indicate isReferencedBy
+DataMed,x,,https://datamed.org,https://datamed.org/display-item.php?repository=0006&id=59139ef65152c62a9fc18ff7&query=,implemented,json-ld,,x,x,,,,,,,x,x,,,x,,x,x,Index of data resources hosted elsewhere. Uses local accession number as identifier | no author
+Dryad,,r3d100000044,https://datadryad.org/,https://datadryad.org/resource/doi:10.5061/dryad.cv74242.2,implemented,json-ld,x,x,x,x,x,,x,x,x,x,x,,x,x,,,,
+Dutch Dataverse Network,,r3d100011201,https://dataverse.nl,,in progress,,,,,,,,,,,,,,,,,,,
+European Genome Phenome Archive,,,https://ega-archive.org/,https://ega-archive.org/datasets/EGAD00000000003,implemented,json-ld,,x,x,,,,,,x,x,x,,,,,,x,Uses local accession number as identifier | no author
+Figshare,,r3d100010066,https://figshare.com,https://figshare.com/articles/Analysis_of_spherical_indentation_of_porous_ceramic_films/4007940,implemented,json-ld,,,x,x,,,,x,x,x,x,,,,x,x,x,
+Harvard Dataverse,,r3d100010051,https://dataverse.harvard.edu,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GAOC03,implemented,json-ld,,x,x,x,,x,x,x,x,x,x,x,,x,,,,Uses Dataverse platform
+HEPData.net,,r3d100010081,https://hepdata.net,,in progress,,,,,,,,,,,,,,,
+ICPSR,,r3d100010255,https://www.icpsr.umich.edu/,https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3937,implemented,json-ld,,x,x,x,,,,x,x,x,x,x,?,,,,x,Citation not used as reference to another creative work
+Image Attribution Framework,,,http://iaf.virtualbrain.org/,,in progress,,,,,,,,,,,,,,,,,,,
+Kaggle,,,https://www.kaggle.com,https://www.kaggle.com/starbucks/store-locations,implemented,json-ld,,x,x,x,,x,,x,x,x,x,x,,,,,x,Uses local accession number as identifier
+LIGO Open Science Center,,,https://losc.ligo.org/about/,https://losc.ligo.org/O1/,implemented,json-ld,x,,x,x,x,,x,,,,,,,x,,,,
+Mendeley,,r3d100011868,https://data.mendeley.com,https://data.mendeley.com/datasets/w4ygt38p86/1,implemented,json-ld,,,x,x,x,x,x,x,x,x,x,x,x,,x,,,
+OmicsDI,,,https://www.omicsdi.org/,,in progress,,,,,,,,,,,,,,,,,,,
+Opendata,,,http://opendata.cern.ch/,http://opendata.cern.ch/record/20,implemented,json-ld,x,x,x,x,x,,x,,x,x,,,,x,,,,
+OpenNeuro,,r3d100010924,https://www.openneuro.org,https://openneuro.org/datasets/ds000258/versions/00002,implemented,json-ld,,,x,x,x,,x,x,x,x,,x,,,x,,,
+ORNL DAAC,,r3d100000037,https://daac.ornl.gov,https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1418,implemented,json-ld,x,,x,x,x,x,x,,x,x,x,,?,,,,,Citation not used as reference to another creative work
+Pangaea,,r3d100010134,https://www.pangaea.de,https://doi.pangaea.de/10.1594/PANGAEA.836178,implemented,json-ld,,x,x,x,x,x,x,,x,x,x,x,x,x,,,,
+PDBe,,r3d100011104,https://www.ebi.ac.uk/pdbe/,http://www.ebi.ac.uk/pdbe/entry/emdb/EMD-1277,implemented,rdfa,,,,,,,,,,,,,,,,,,
+PGP,,r3d100011876,https://edal.ipk-gatersleben.de/repos/pgp,https://doi.ipk-gatersleben.de/DOI/ce9f7e62-56e5-4554-bb11-d7ab29e6fa1d/dd34a994-daf0-4b7f-9809-d875c1e771d2/2,implemented,json-ld,x,,x,x,x,,,,x,x,x,,,,,,x,
+PUB,,r3d100010750,https://pub.uni-bielefeld.de,,in progress,,,,,,,,,,,,,,,,,,,
+Reactome,,r3d100010861,http://reactome.org/,https://reactome.org/content/detail/5617472,implemented,json-ld,,,x,x,,x,,x,x,x,x,x,x,,x,,x,
+SEANOE,,r3d100011867,https://www.seanoe.org,,in progress,,,,,,,,,,,,,,,,,,,
+TCCON,,r3d100012403,https://tccondata.org,https://data.caltech.edu/records/210,in progress,,,,,,,,,,,,,,,,,,,
+Texas Data Repository,,r3d100012385,https://dataverse.tdl.org,https://dataverse.tdl.org/dataset.xhtml?persistentId=doi:10.18738/T8/7BTM0D,implemented,json-ld,,x,x,x,,x,x,x,x,x,x,x,,,,,,uses Dataverse platform
+UniProt,,r3d100010357,https://http://www.uniprot.org/,https://www.uniprot.org/uniprot/A0A1C9VNP8,implemented,rdfa,,,,,,,,,,,,,,,,,,
+World Data Center for Climate,,r3d100010299,https://cera-www.dkrz.de/WDCC/ui/cerasearch/,https://cera-www.dkrz.de/WDCC/ui/cerasearch/entry?acronym=WR2010_EH5_1_A1B,implemented,json-ld,x,,x,x,x,x,x,,x,x,x,,,,,,,
+Zenodo,,r3d100010468,https://www.zenodo.org,https://www.zenodo.org/record/1196821,implemented,json-ld,x,x,x,x,,,x,x,x,x,x,x,,,,x,,
