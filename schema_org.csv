@@ -10,7 +10,7 @@ Dutch Dataverse Network,,r3d100011201,https://dataverse.nl,,in progress,,,,,,,,,
 European Genome Phenome Archive,,,https://ega-archive.org/,https://ega-archive.org/datasets/EGAD00000000003,implemented,json-ld,,x,x,,,,,,x,x,x,,,,,,x,Uses local accession number as identifier | no author
 Figshare,,r3d100010066,https://figshare.com,https://figshare.com/articles/Analysis_of_spherical_indentation_of_porous_ceramic_films/4007940,implemented,json-ld,,,x,x,,,,x,x,x,x,,,,x,x,x,
 Harvard Dataverse,,r3d100010051,https://dataverse.harvard.edu,https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GAOC03,implemented,json-ld,,x,x,x,,x,x,x,x,x,x,x,,x,,,,Uses Dataverse platform
-HEPData.net,,r3d100010081,https://hepdata.net,,in progress,,,,,,,,,,,,,,,
+HEPData.net,,r3d100010081,https://hepdata.net,,in progress,,,,,,,,,,,,,,,,,,,
 ICPSR,,r3d100010255,https://www.icpsr.umich.edu/,https://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/3937,implemented,json-ld,,x,x,x,,,,x,x,x,x,x,?,,,,x,Citation not used as reference to another creative work
 Image Attribution Framework,,,http://iaf.virtualbrain.org/,,in progress,,,,,,,,,,,,,,,,,,,
 Kaggle,,,https://www.kaggle.com,https://www.kaggle.com/starbucks/store-locations,implemented,json-ld,,x,x,x,,x,,x,x,x,x,x,,,,,x,Uses local accession number as identifier
